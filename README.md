@@ -1,2 +1,7 @@
 # react-native-awesome
-This repository is for developing react native experimental code and designing boilerplate code.
+
+Stack
+-
+1. react-redux
+2. react-navigation/native
+3. redux-toolkit
