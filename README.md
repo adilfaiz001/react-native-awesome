@@ -17,3 +17,6 @@
 
 ### Components
 1. Floating TextInput Fields
+2. Bottom Sheet
+   1. Library
+   2. Build from scratch
