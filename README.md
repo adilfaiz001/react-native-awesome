@@ -8,7 +8,7 @@
 ### UI Challenges
 1. FlatList vs Virtual List 
 2. Navigation Flow and Motion Parameters
-3. Keyboard-Avoiding-View
+3. Keyboard-Avoiding-View - https://github.com/adilfaiz001/react-native-awesome/issues/1
    1. Keyboard Response - Screen KeyboardView use-case, example single page inputs, inputs on Scroll View
    2. Experiment - 
       1. Do single input keyboard-view with space available
